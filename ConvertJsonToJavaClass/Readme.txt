@@ -1,0 +1,2 @@
+- The project demo how to conver JSON to Java Class by using GSON
+- The reference for downloading GSON library: https://google-gson.googlecode.com/files/google-gson-2.2.4-release.zip
