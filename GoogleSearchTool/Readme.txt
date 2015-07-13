@@ -1,0 +1,5 @@
+-Prject: GoogleSearchTool
+- This project is used for search information via Internet
+- Server will return JSon in response and the project uses Gson for converting Json to class
+- Link for search: http://ajax.googleapis.com/ajax/services/search/web?v=1.0&q=
+- Link library:  https://google-gson.googlecode.com/files/google-gson-2.2.4-release.zip
