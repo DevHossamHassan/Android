@@ -1,0 +1,2 @@
+In this project:
+- we’ll learn how to customize the default push broadcast receiver, handling the json push messages, using the parse dashboard to send messages, customizing the push icons and lot more.
