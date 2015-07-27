@@ -1,0 +1,2 @@
+In Material Design lot of new things were introduced like Material Theme, new widgets, custom shadows, vector drawables and custom animations. 
+In this tutorial we are going to learn the basic steps of Material Design development i.e writing the custom theme and implementing the navigation drawer using the RecyclerView.
