@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MaterialViewPager</string>
+
+    <string name="sports">sports</string>
+    <string name="divertissement">divertissement</string>
+    <string name="technologie">technologie</string>
+    <string name="international">international</string>
+</resources>
